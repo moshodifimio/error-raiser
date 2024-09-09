@@ -1,2 +1,2 @@
-# print("standard error raiser")
-raise("ERROR ON RUN")
+print("standard error raiser")
+# raise("ERROR ON RUN")
